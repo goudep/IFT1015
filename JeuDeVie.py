@@ -1,6 +1,7 @@
 '''
 TP1 le jeu de la vie
 Date : 2024-07-04
+Name : Yudi Ma, Qian Ru
 Summary : Ce programme implémente le "Jeu de la Vie" de Conway, un automate
 cellulaire. Il crée une grille 2D, initialise les cellules de manière 
 aléatoire, et applique des règles prédéfinies pour simuler l'évolution des 
